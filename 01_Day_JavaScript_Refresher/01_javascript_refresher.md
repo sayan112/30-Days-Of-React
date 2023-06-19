@@ -2935,7 +2935,7 @@ const fullStack = [
   ['Node', 'Express', 'MongoDB']
 ]
 
-const [frontEnd, backEnd] = fullstack
+const [frontEnd, backEnd] = fullStack
 console.log(frontEnd, backEnd)
 
 //["HTML", "CSS", "JS", "React"] , ["Node", "Express", "MongoDB"]
